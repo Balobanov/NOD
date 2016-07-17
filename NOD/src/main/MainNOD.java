@@ -7,4 +7,8 @@ public class MainNOD {
 
 	}
 
+	public static int theBiggestNOD(int [] numbers)
+	{
+		return 0;
+	}
 }
